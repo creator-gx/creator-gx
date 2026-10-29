@@ -1,105 +1,17 @@
-#
+`Software Engineer at Itaú Bank` · `2+ Years of Experience` · `Founder at Servidor dos Programadores`
 
-Me chamo Paulo Queiroz, tenho 24 anos e moro em Juiz de Fora - MG. Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonado por tecnologia, curioso sobre Hardware e compartilho meu conhecimento através do
-meu canal no YouTube "[PauloDev](https://www.youtube.com/@paulopontodev)".
- 
-#
+Bachelor's Degree in Computer Science, passionate about gym, purpose, tech education and martial arts.
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+- Back-end, System design, DevOps, Infrastructure, AI.
+- Python, Go (Golang), SQL, AWS, Terraform, AI Agents, RAG.
+- English (B2), Portuguese (Native).
 
-<h3 align="left">Connect with me!</h3>
+<a target="__blank" href="https://www.credly.com/badges/91cc8685-4c19-4f44-a61d-2f0b66158540"><img height="100" width="100" alt="aws-cloud-practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
+<a target="__blank" href="https://www.credly.com/badges/500cc492-d55d-4d63-a86d-cee52123fb9c/"><img height="100" width="100" alt="aws-cloud-academy-foundations" src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob"/></a>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:paulorobertodequeirozjr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/paulopontodev/)
+Reach me at: caioandres2112@gmail.com
 
+# My Developer Community
+[![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t=1)](https://discord.gg/programador)
 
-<h3 align="left">My Stack ~</h3>
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img
-    align="left"
-    alt="Github"
-    title="GitHub"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img
-    align="left"
-    alt="Vercel"
-    title="Vercel"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
-/>
-<br/>
-<br/>
-
-<h3 align="left">GitHub Stats</h3>
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=paulopontodev&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=paulopontodev&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
-  />
-
-</p>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg">
-</picture>
+![gon](gon-horizontal.jpg)
