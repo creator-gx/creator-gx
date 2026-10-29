@@ -1,3 +1,4 @@
+
 `Software Engineer at Itaú Bank` · `2+ Years of Experience` · `Founder at Servidor dos Programadores`
 
 Bachelor's Degree in Computer Science, passionate about gym, purpose, tech education and martial arts.
@@ -15,3 +16,4 @@ Reach me at: caioandres2112@gmail.com
 [![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t=1)](https://discord.gg/programador)
 
 ![gon](gon-horizontal.jpg)
+<img width="1920" height="212" alt="gon-horizontal" src="https://github.com/user-attachments/assets/f802daa3-1467-4d2f-8835-2dbcf5d0cc6e" />
