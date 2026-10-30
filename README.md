@@ -1,7 +1,7 @@
 
 `Software Engineer at Itaú Bank` · `2+ Years of Experience` · `Founder at Servidor dos Programadores`
 
-Bachelor's Degree in Computer Science, passionate about gym, purpose, tech education and martial arts.
+Studying a Bachelor's Degree in Software Engineering (1st semester) at São Judas Tadeu University, passionate tech education, and taking ideas off paper through code.
 
 - Back-end, System design, DevOps, Infrastructure, AI.
 - Python, Go (Golang), SQL, AWS, Terraform, AI Agents, RAG.
