@@ -11,5 +11,5 @@ Studying a Bachelor's Degree in Software Engineering (1st semester) at São Juda
 <a target="__blank" href="https://www.credly.com/badges/500cc492-d55d-4d63-a86d-cee52123fb9c/"><img height="100" width="100" alt="aws-cloud-academy-foundations" src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob"/></a>
 
 Reach me at: caioandres2112@gmail.com
-![Banner](gon_banner.png)
-<img width="1920" height="212" alt="gon-horizontal" src="https://github.com/user-attachments/assets/f802daa3-1467-4d2f-8835-2dbcf5d0cc6e" />
+
+![Banner](gon-banner.jpg)
